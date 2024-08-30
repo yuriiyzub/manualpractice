@@ -21,4 +21,3 @@ In this course, I gained good knowledge and practical skills of:
 - understanding of CI/CD  
 - basics of ISTQB Foundation
 
-Thank you, Nataliia Popelyshko.
