@@ -1,4 +1,4 @@
-# Practical tasks from the course Практичний курс з мануального тестування - Попелюха
+# Practical tasks from the course Практичний курс з мануального тестування - Nataliia Popelyshko
 Portfolio of practical work on the manual testing course.
 
 In this course, I gained good knowledge and practical skills of:
